@@ -1,6 +1,7 @@
 # OPENCV-Turkce-Kaynak
 # 📘 OpenCV ve Python ile Görüntü İşleme Rehberi
 
+cv_templates.py dosyası, istediğinizde yorum satırlarından kurtarıp kendi bilgisayarınızda deneyebileceğiniz kodları ve bu kodların açıklamalarını içeren 1000'den fazla satıra sahip bir doküman işlevindedir.
 Bu rehber, **OpenCV ve Python** ile **görüntü işleme** konusundaki temel ve ileri düzey kavramları, kod örnekleriyle açıklamaktadır. Bu kaynak, hem yeni başlayanlar hem de ileri düzey kullanıcılar için yararlı olacaktır. Rehber, **görüntü filtreleme, köşe tespiti, morfolojik işlemler, obje tespiti** gibi konularda kapsamlı bir kılavuz sunar.
 
 ---
